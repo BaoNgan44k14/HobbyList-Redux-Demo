@@ -1,0 +1,7 @@
+
+ul.hobby-list > li {
+    transition: all .35s ease-in-out;
+}
+ul.hobby-list > li.active {
+   color: red;
+}
